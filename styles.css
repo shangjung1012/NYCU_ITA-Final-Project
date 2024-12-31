@@ -1,0 +1,23 @@
+/* styles.css */
+
+.table {
+    font-family: 'Noto Sans TC', sans-serif; /* 使用一致的字體 */
+    color: #343a40; /* 字體顏色 */
+}
+
+.table th {
+    background-color: #007bff; /* 表頭背景色 */
+    color: #fff; /* 表頭字體顏色 */
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(0, 123, 255, 0.05); /* 斑馬條紋 */
+}
+
+.table-hover tbody tr:hover {
+    background-color: rgba(0, 123, 255, 0.1); /* 滑鼠懸停效果 */
+}
+
+.back-button {
+    margin-top: 20px;
+}

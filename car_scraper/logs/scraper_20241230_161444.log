@@ -1,0 +1,77 @@
+2024-12-30 16:14:44,619 - INFO - Starting the car scraper.
+2024-12-30 16:14:45,356 - INFO - Retrieved car brands: ['Alfa Romeo', 'Aston Martin', 'Audi', 'Bentley', 'BMW', 'Bugatti', 'Buick', 'Cadillac', 'Chery', 'Chrysler', 'Citroen', 'Daihatsu', 'Ferrari', 'Fiat', 'Ford', 'Honda', 'Hyundai', 'Ineos', 'Infiniti', 'Jaguar', 'Jeep', 'Kia', 'Lamborghini', 'Land Rover', 'Lexus', 'Lotus', 'Luxgen', 'M-Benz', 'Mahindra', 'Maserati', 'Mazda', 'McLaren', 'MG', 'Mini', 'Mitsubishi', 'Morgan', 'Nissan', 'Opel', 'Peugeot', 'Porsche', 'Proton', 'Renault', 'Rolls-Royce', 'Saab', 'Skoda', 'Smart', 'Ssangyong', 'Subaru', 'Suzuki', 'Tesla', 'Tobe', 'Toyota', 'Volkswagen', 'Volvo']
+2024-12-30 16:14:45,358 - INFO - Starting scraping for brand: Alfa romeo
+2024-12-30 16:14:45,556 - INFO - Found years for Alfa Romeo: ['2008']
+2024-12-30 16:14:45,557 - INFO - Processing year: 2008
+2024-12-30 16:14:45,954 - INFO - Added variant: 2.0 T Spark - 142 - 5門 5人座 - 1970cccc - 150hp@6300rpmhp - 汽油 to model: 2008 Alfa romeo Alfa Romeo 147 with 1 variants
+2024-12-30 16:14:45,955 - INFO - Added variant: 1.9 JTDM - 148 - 5門 5人座 - 1910cccc - 150hp@4000rpmhp - 柴油 to model: 2008 Alfa romeo Alfa Romeo 147 with 2 variants
+2024-12-30 16:14:46,226 - INFO - Added variant: 1.9 JTDM - 182 - 4門 5人座 - 1910cccc - 150hp@4000rpmhp - 柴油 to model: 2008 Alfa romeo Alfa Romeo 159 with 1 variants
+2024-12-30 16:14:46,226 - INFO - Added variant: 2.4 JTDM - 209 - 4門 5人座 - 2387cccc - 200hp@4000rpmhp - 柴油 to model: 2008 Alfa romeo Alfa Romeo 159 with 2 variants
+2024-12-30 16:14:46,226 - INFO - Added variant: 3.2 JTS Q4 - 259 - 4門 5人座 - 3195cccc - 260hp@6200rpmhp - 汽油 to model: 2008 Alfa romeo Alfa Romeo 159 with 3 variants
+2024-12-30 16:14:46,620 - INFO - Added variant: 2.4 JTDM - 219 - 5門 5人座 - 2387cccc - 200hp@4000rpmhp - 柴油 to model: 2008 Alfa romeo Alfa Romeo 159 Sportwagon with 1 variants
+2024-12-30 16:14:46,822 - INFO - Added variant: 3.2 JTS Q4 - 288 - 2門 4人座 - 3195cccc - 260hp@6200rpmhp - 汽油 to model: 2008 Alfa romeo Alfa Romeo Brera with 1 variants
+2024-12-30 16:14:47,136 - INFO - Added variant: 2.0 JTS - 169 - 2門 4人座 - 1970cccc - 165hp@6400rpmhp - 汽油 to model: 2008 Alfa romeo Alfa Romeo GT with 1 variants
+2024-12-30 16:14:47,401 - INFO - Added variant: 3.2 JTS Q4 - 298 - 2門 2+2人座 - 3195cccc - 260hp@6200rpmhp - 汽油 to model: 2008 Alfa romeo Alfa Romeo Spyder with 1 variants
+2024-12-30 16:14:48,910 - INFO - Total cars found for Alfa romeo: 6
+2024-12-30 16:14:48,910 - INFO - Saved data for brand Alfa Romeo to car_data\alfa_romeo\info.json
+2024-12-30 16:14:49,040 - INFO - Starting scraping for brand: Aston martin
+2024-12-30 16:14:49,219 - INFO - Found years for Aston Martin: ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010']
+2024-12-30 16:14:49,219 - INFO - Processing year: 2024
+2024-12-30 16:14:49,648 - INFO - Added variant: 4.0 V8 - 1288 - 2門 2+2人座 - 3982cccc - 680hp@6000rpmhp - 汽油 to model: 2024 Aston martin Aston Martin DB12 with 1 variants
+2024-12-30 16:14:49,871 - INFO - Added variant: 4.0 V8 - 1388 - 2門 2+2人座 - 3982cccc - 680hp@6000rpmhp - 汽油 to model: 2024 Aston martin Aston Martin DB12 Volante with 1 variants
+2024-12-30 16:14:50,086 - INFO - Added variant: 4.0 V8 - 1158 - 5門 5人座 - 3982cccc - 550hp@6500rpmhp - 汽油 to model: 2024 Aston martin Aston Martin DBX with 1 variants
+2024-12-30 16:14:50,086 - INFO - Added variant: 707 - 1438 - 5門 5人座 - 3982cccc - 707hp@6000rpmhp - 汽油 to model: 2024 Aston martin Aston Martin DBX with 2 variants
+2024-12-30 16:14:50,350 - INFO - Added variant: 4.0 V8 - 1168 - 2門 2人座 - 3982cccc - 665hp@6000rpmhp - 汽油 to model: 2024 Aston martin Aston Martin Vantage with 1 variants
+2024-12-30 16:14:52,871 - INFO - Processing year: 2023
+2024-12-30 16:14:53,574 - INFO - Added variant: 4.0 V8 - 1168 - 2門 2+2人座 - 3982cccc - 510hp@6000rpmhp - 汽油 to model: 2023 Aston martin Aston Martin DB11 with 1 variants
+2024-12-30 16:14:53,851 - INFO - Added variant: 4.0 V8 - 1198 - 2門 2+2人座 - 3982cccc - 510hp@6000rpmhp - 汽油 to model: 2023 Aston martin Aston Martin DB11 Volante with 1 variants
+2024-12-30 16:14:54,140 - INFO - Added variant: Superleggera 5.2 V12 - 1768 - 2門 2+2人座 - 5204cccc - 725hp@6500rpmhp - 汽油 to model: 2023 Aston martin Aston Martin DBS with 1 variants
+2024-12-30 16:14:54,380 - INFO - Added variant: Superleggera 5.2 V12 - 1938 - 2門 2+2人座 - 5204cccc - 725hp@6500rpmhp - 汽油 to model: 2023 Aston martin Aston Martin DBS Volante with 1 variants
+2024-12-30 16:14:54,639 - INFO - Added variant: 4.0 V8 - 1158 - 5門 5人座 - 3982cccc - 550hp@6500rpmhp - 汽油 to model: 2023 Aston martin Aston Martin DBX with 1 variants
+2024-12-30 16:14:54,639 - INFO - Added variant: 707 - 1438 - 5門 5人座 - 3982cccc - 707hp@6000rpmhp - 汽油 to model: 2023 Aston martin Aston Martin DBX with 2 variants
+2024-12-30 16:14:54,849 - INFO - Added variant: 4.0 V8 - 928 - 2門 2人座 - 3982cccc - 510hp@6000rpmhp - 汽油 to model: 2023 Aston martin Aston Martin Vantage with 1 variants
+2024-12-30 16:14:54,849 - INFO - Added variant: 4.0 V8 F1 Edition - 1138 - 2門 2人座 - 3982cccc - 535hp@6000rpmhp - 汽油 to model: 2023 Aston martin Aston Martin Vantage with 2 variants
+2024-12-30 16:14:55,050 - INFO - Added variant: 4.0 V8 - 928 - 2門 2人座 - 3982cccc - 510hp@6000rpmhp - 汽油 to model: 2023 Aston martin Aston Martin Vantage Roadster with 1 variants
+2024-12-30 16:14:55,050 - INFO - Added variant: 4.0 V8 F1 Edition - 1228 - 2門 2人座 - 3982cccc - 535hp@6000rpmhp - 汽油 to model: 2023 Aston martin Aston Martin Vantage Roadster with 2 variants
+2024-12-30 16:14:56,672 - INFO - Processing year: 2022
+2024-12-30 16:14:57,167 - INFO - Added variant: 4.0 V8 - 1038 - 2門 2+2人座 - 3982cccc - 510hp@6000rpmhp - 汽油 to model: 2022 Aston martin Aston Martin DB11 with 1 variants
+2024-12-30 16:14:57,487 - INFO - Added variant: 4.0 V8 - 1138 - 2門 2+2人座 - 3982cccc - 510hp@6000rpmhp - 汽油 to model: 2022 Aston martin Aston Martin DB11 Volante with 1 variants
+2024-12-30 16:14:57,806 - INFO - Added variant: Superleggera 5.2 V12 - 1680 - 2門 2+2人座 - 5204cccc - 725hp@6500rpmhp - 汽油 to model: 2022 Aston martin Aston Martin DBS with 1 variants
+2024-12-30 16:14:58,022 - INFO - Added variant: Superleggera 5.2 V12 - 1848 - 2門 2+2人座 - 5204cccc - 725hp@6500rpmhp - 汽油 to model: 2022 Aston martin Aston Martin DBS Volante with 1 variants
+2024-12-30 16:14:58,325 - INFO - Added variant: 4.0 V8 - 1018 - 5門 5人座 - 3982cccc - 550hp@6500rpmhp - 汽油 to model: 2022 Aston martin Aston Martin DBX with 1 variants
+2024-12-30 16:14:58,325 - INFO - Added variant: 707 - 1438 - 5門 5人座 - 3982cccc - 707hp@6000rpmhp - 汽油 to model: 2022 Aston martin Aston Martin DBX with 2 variants
+2024-12-30 16:14:58,530 - INFO - Added variant: 5.2 V12 - 售價未公布 - 2門 2人座 - 5204cccc - 700hp@6500rpmhp - 汽油 to model: 2022 Aston martin Aston Martin Vantage with 1 variants
+2024-12-30 16:14:58,530 - INFO - Added variant: 4.0 V8 - 880 - 2門 2人座 - 3982cccc - 510hp@6000rpmhp - 汽油 to model: 2022 Aston martin Aston Martin Vantage with 2 variants
+2024-12-30 16:14:58,530 - INFO - Added variant: 4.0 V8 F1 Edition - 1088 - 2門 2人座 - 3982cccc - 535hp@6000rpmhp - 汽油 to model: 2022 Aston martin Aston Martin Vantage with 3 variants
+2024-12-30 16:14:58,737 - INFO - Added variant: 4.0 V8 - 880 - 2門 2人座 - 3982cccc - 510hp@6000rpmhp - 汽油 to model: 2022 Aston martin Aston Martin Vantage Roadster with 1 variants
+2024-12-30 16:14:58,737 - INFO - Added variant: 4.0 V8 F1 Edition - 1168 - 2門 2人座 - 3982cccc - 535hp@6000rpmhp - 汽油 to model: 2022 Aston martin Aston Martin Vantage Roadster with 2 variants
+2024-12-30 16:15:01,354 - INFO - Processing year: 2021
+2024-12-30 16:15:01,824 - INFO - Added variant: 4.0 V8 - 1038 - 2門 2+2人座 - 3982cccc - 510hp@6000rpmhp - 汽油 to model: 2021 Aston martin Aston Martin DB11 with 1 variants
+2024-12-30 16:15:01,824 - INFO - Added variant: AMR - 1480 - 2門 2+2人座 - 5204cccc - 639hp@6500rpmhp - 汽油 to model: 2021 Aston martin Aston Martin DB11 with 2 variants
+2024-12-30 16:15:02,192 - INFO - Added variant: 4.0 V8 - 1138 - 2門 2+2人座 - 3982cccc - 510hp@6000rpmhp - 汽油 to model: 2021 Aston martin Aston Martin DB11 Volante with 1 variants
+2024-12-30 16:15:02,509 - INFO - Added variant: Superleggera 5.2 V12 - 1680 - 2門 2+2人座 - 5204cccc - 725hp@6500rpmhp - 汽油 to model: 2021 Aston martin Aston Martin DBS with 1 variants
+2024-12-30 16:15:02,761 - INFO - Added variant: Superleggera 5.2 V12 - 1848 - 2門 2+2人座 - 5204cccc - 725hp@6500rpmhp - 汽油 to model: 2021 Aston martin Aston Martin DBS Volante with 1 variants
+2024-12-30 16:15:02,985 - INFO - Added variant: 4.0 V8 - 988 - 5門 5人座 - 3982cccc - 550hp@6500rpmhp - 汽油 to model: 2021 Aston martin Aston Martin DBX with 1 variants
+2024-12-30 16:15:03,214 - INFO - Added variant: 4.0 V8 - 880 - 2門 2人座 - 3982cccc - 510hp@6000rpmhp - 汽油 to model: 2021 Aston martin Aston Martin Vantage with 1 variants
+2024-12-30 16:15:03,214 - INFO - Added variant: 4.0 V8 F1 Edition - 1088 - 2門 2人座 - 3982cccc - 535hp@6000rpmhp - 汽油 to model: 2021 Aston martin Aston Martin Vantage with 2 variants
+2024-12-30 16:15:03,497 - INFO - Added variant: 4.0 V8 - 980 - 2門 2人座 - 3982cccc - 510hp@6000rpmhp - 汽油 to model: 2021 Aston martin Aston Martin Vantage Roadster with 1 variants
+2024-12-30 16:15:03,497 - INFO - Added variant: 4.0 V8 F1 Edition - 1168 - 2門 2人座 - 3982cccc - 535hp@6000rpmhp - 汽油 to model: 2021 Aston martin Aston Martin Vantage Roadster with 2 variants
+2024-12-30 16:15:06,248 - INFO - Processing year: 2020
+2024-12-30 16:15:06,655 - INFO - Added variant: 4.0 V8 - 1038 - 2門 2+2人座 - 3982cccc - 510hp@6000rpmhp - 汽油 to model: 2020 Aston martin Aston Martin DB11 with 1 variants
+2024-12-30 16:15:06,655 - INFO - Added variant: AMR - 1480 - 2門 2+2人座 - 5204cccc - 639hp@6500rpmhp - 汽油 to model: 2020 Aston martin Aston Martin DB11 with 2 variants
+2024-12-30 16:15:06,921 - INFO - Added variant: 4.0 V8 - 1138 - 2門 2+2人座 - 3982cccc - 510hp@6000rpmhp - 汽油 to model: 2020 Aston martin Aston Martin DB11 Volante with 1 variants
+2024-12-30 16:15:07,200 - INFO - Added variant: Superleggera 5.2 V12 - 1680 - 2門 2+2人座 - 5204cccc - 725hp@6500rpmhp - 汽油 to model: 2020 Aston martin Aston Martin DBS with 1 variants
+2024-12-30 16:15:07,431 - INFO - Added variant: Superleggera 5.2 V12 - 1848 - 2門 2+2人座 - 5204cccc - 725hp@6500rpmhp - 汽油 to model: 2020 Aston martin Aston Martin DBS Volante with 1 variants
+2024-12-30 16:15:08,195 - INFO - Added variant: 4.0 V8 - 880 - 2門 2人座 - 3982cccc - 510hp@6000rpmhp - 汽油 to model: 2020 Aston martin Aston Martin Vantage with 1 variants
+2024-12-30 16:15:08,430 - INFO - Added variant: 4.0 V8 - 980 - 2門 2人座 - 3982cccc - 510hp@6000rpmhp - 汽油 to model: 2020 Aston martin Aston Martin Vantage Roadster with 1 variants
+2024-12-30 16:15:10,472 - INFO - Processing year: 2019
+2024-12-30 16:15:11,438 - INFO - Added variant: 4.0 V8 - 1038 - 2門 2+2人座 - 3982cccc - 510hp@6000rpmhp - 汽油 to model: 2019 Aston martin Aston Martin DB11 with 1 variants
+2024-12-30 16:15:11,439 - INFO - Added variant: AMR - 1480 - 2門 2+2人座 - 5204cccc - 639hp@6500rpmhp - 汽油 to model: 2019 Aston martin Aston Martin DB11 with 2 variants
+2024-12-30 16:15:11,634 - INFO - Added variant: 4.0 V8 - 1138 - 2門 2+2人座 - 3982cccc - 510hp@6000rpmhp - 汽油 to model: 2019 Aston martin Aston Martin DB11 Volante with 1 variants
+2024-12-30 16:15:11,926 - INFO - Added variant: Superleggera 5.2 V12 - 1680 - 2門 2+2人座 - 5204cccc - 725hp@6500rpmhp - 汽油 to model: 2019 Aston martin Aston Martin DBS with 1 variants
+2024-12-30 16:15:12,146 - INFO - Added variant: 4.0 V8 - 880 - 2門 2人座 - 3982cccc - 510hp@6000rpmhp - 汽油 to model: 2019 Aston martin Aston Martin Vantage with 1 variants
+2024-12-30 16:15:13,754 - INFO - Processing year: 2018
+2024-12-30 16:15:14,156 - INFO - Added variant: 4.0 V8 - 1038 - 2門 2+2人座 - 3982cccc - 510hp@6000rpmhp - 汽油 to model: 2018 Aston martin Aston Martin DB11 with 1 variants
+2024-12-30 16:15:14,156 - INFO - Added variant: 5.2 V12 - 1280 - 2門 2+2人座 - 5204cccc - 608hp@6500rpmhp - 汽油 to model: 2018 Aston martin Aston Martin DB11 with 2 variants
+2024-12-30 16:15:14,356 - INFO - Added variant: 4.0 V8 - 1138 - 2門 2+2人座 - 3982cccc - 510hp@6000rpmhp - 汽油 to model: 2018 Aston martin Aston Martin DB11 Volante with 1 variants
+2024-12-30 16:15:14,575 - INFO - Added variant: S 6.0 V12 - 1380 - 5門 4人座 - 5935cccc - 558hp@6750rpmhp - 汽油 to model: 2018 Aston martin Aston Martin Rapide with 1 variants
